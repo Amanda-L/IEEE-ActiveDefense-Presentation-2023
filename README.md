@@ -7,5 +7,5 @@ MITRE ATT&CK framework. Then, based on the MITRE Engage framework, we identified
 
 Keywords—active defense, deception, TTPs, proactive defense
 
-To see the whole slides without downloading, please visit: https://adnd.work/program_2023/
+To see the presentation slides, please visit: https://adnd.work/program_2023/
 
