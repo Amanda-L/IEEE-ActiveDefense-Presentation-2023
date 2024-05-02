@@ -5,3 +5,6 @@ This approach transforms the asymmetric nature of cybersecurity defense. We cond
 MITRE ATT&CK framework. Then, based on the MITRE Engage framework, we identified potential use cases for implementing active defense as a countermeasure.
 
 Keywords—active defense, deception, TTPs, proactive defense
+
+To see the whole slides without downloading, please visit: https://adnd.work/program_2023/
+
